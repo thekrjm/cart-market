@@ -1,0 +1,78 @@
+{
+    "sectionInfoList" :[
+        {
+            "sectionTitle" :"인기상품",
+            "productList" : [
+                {
+                    "id" :1,
+                    "imgSrc": "public/assets/파프리카.jpg",
+                    "name":"파프리카 2입",
+                    "discountPercent":30,
+                    "price":5600,
+                    "originalPrice":8000
+                },
+                {
+                    "id" :2,
+                    "imgSrc": "public/assets/당근.jpg",
+                    "name":"당근 2입",
+                    "discountPercent":20,
+                    "price":2000,
+                    "originalPrice":2500
+                },
+                {
+                    "id" :3,
+                    "imgSrc": "public/assets/바나나.jpg",
+                    "name":"바나나 2입",
+                    "discountPercent":20,
+                    "price":8000,
+                    "originalPrice":10000
+                },
+                {
+                    "id" :4,
+                    "imgSrc": "public/assets/아보카도.jpg",
+                    "name":"아보카도 2입",
+                    "discountPercent":10,
+                    "price":2250,
+                    "originalPrice":2500
+                }
+            ]
+        },
+        {
+            "sectionTitle" :"새상품",
+            "productList" : [
+                {
+                    "id" :5,
+                    "imgSrc": "public/assets/머핀.jpg",
+                    "name":"머핀 2입",
+                    "discountPercent":50,
+                    "price":2500,
+                    "originalPrice":5000
+                },
+                {
+                    "id" :6,
+                    "imgSrc": "public/assets/삼겹살.jpg",
+                    "name":"삼겹살 1근",
+                    "discountPercent":30,
+                    "price":10500,
+                    "originalPrice":15000
+                },
+                {
+                    "id" :7,
+                    "imgSrc": "public/assets/원두.jpg",
+                    "name":"하우두유두",
+                    "discountPercent":20,
+                    "price":2000,
+                    "originalPrice":2500
+                },
+                {
+                    "id" :8,
+                    "imgSrc": "public/assets/파스타.jpg",
+                    "name":"파스타면 2입",
+                    "discountPercent":20,
+                    "price":2000,
+                    "originalPrice":2500
+                }
+            ]
+        }
+    ]
+}
